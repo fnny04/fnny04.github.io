@@ -1,0 +1,38 @@
+:root {
+  font-size: 16px;
+  font-family: "Fredoka", sans-serif;
+
+  --red-100: rgb(251, 143, 143);
+  --red-200: rgb(253, 105, 105);
+  --red-300: rgb(246, 62, 62);
+
+  --blue-100: rgb(147, 197, 255);
+  --blue-200: rgb(77, 160, 255);
+  --blue-300: rgb(77, 160, 255);
+
+  --green-100: rgb(151, 255, 159);
+  --green-200: rgb(108, 253, 120);
+  --green-300: rgb(76, 253, 91);
+
+  --yellow-100: rgb(246, 253, 141);
+  --yellow-200: rgb(241, 252, 94);
+  --yellow-300: rgb(239, 252, 55);
+
+  --purple-100: rgb(216, 155, 252);
+  --purple-200: rgb(203, 115, 253);
+  --purple-300: rgb(186, 72, 252);
+
+  --text-s: 1rem;
+  --text-m: 2rem;
+  --text-l: 2.5rem;
+  --text-xl: 3rem;
+
+  --font-sans: "Fredoka", sans-serif;
+  --font-bold: 700;
+  --font-medium: 500;
+  --font-normal: 400;
+
+  --full: 100%;
+  --screen: 100vh;
+  --half: 50%;
+}
